@@ -6,7 +6,7 @@ class Telegram:
     BOT_TOKEN = env.get("TG_BOT_TOKEN", "6884238629:AAEmaNFKHPKg8j9wjF2Rb9XVl2dRprO76tk")
     BOT_USERNAME = env.get("TG_BOT_USERNAME", "orgreactionbot")
     EMOJIS = [
-        "👍", "👎", "❤", "🔥", 
+        "👍", "🧑‍💻", "❤", "🔥", 
         "🥰", "👏", "😁", "🤔",
         "❤️", "😱", "🎅", "😢",
         "🎉", "🤩", "🍕", "👺",
